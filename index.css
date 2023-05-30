@@ -1,0 +1,6 @@
+.item{
+    background-color: brown;
+    display: flex;
+    flex: 1;
+}
+.container
